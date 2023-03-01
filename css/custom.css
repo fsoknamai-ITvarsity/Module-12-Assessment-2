@@ -1,0 +1,110 @@
+body{
+  font-family: monospace;
+  background-color:lime;
+    
+}
+
+#editForm{
+  font-family: monospace;
+  background-color:black;
+  text-align: center;
+  color: white;
+}
+
+#submitForm{
+  margin-top: 50px;
+}
+
+#firstname{
+  margin-right: 20px;
+  margin-top: 50px;
+}
+
+#lastname{
+  margin-right: 10px;
+}
+
+#email{
+  margin-right: -27px;
+}
+
+#mobile{
+  margin-right: -20px;
+}
+
+#avatar{
+  margin-left: 40px;
+}
+
+#editContact{
+  margin-left: 600px;
+}
+
+#avatarImage{
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+#refresh{
+  margin-left: 560px;
+  margin-bottom: 80px;
+  margin-top: 20px;
+}
+
+table{
+  margin-bottom: 10px;
+  margin-left: 450px;
+
+}
+
+#img p{
+  text-align:left;
+  margin-top: 20px;
+}
+
+td{
+  text-align: center;
+  padding: 20px;
+}
+
+th{
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+h2{
+  text-align: center;
+  margin-right: 50px;
+  color: black;
+}
+
+.carousel-item img{
+  margin-left: 350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
